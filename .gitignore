@@ -2,3 +2,9 @@
 obj/
 .vs/
 appsettings.Development.json
+
+*.exe
+*.db
+*.db-wal
+*.db-shm
+*.log
